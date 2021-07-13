@@ -10,12 +10,8 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+{% Estructura Fronted-avanzado.md %}
 
 <br>
 
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+{% Estructura Backend-Dev.md %}
