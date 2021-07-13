@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% Estructura Title.md %}
 
 <br>
 
-{% include 02-image.md %}
+{% Estructura Fronted-basic.md %}
 
 <br>
 
