@@ -1,6 +1,6 @@
 layout: default
 
-{% Estructura Title.md %}
+{% estructura Title.md %}
 
 <br>
 
